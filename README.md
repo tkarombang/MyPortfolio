@@ -3,17 +3,13 @@ An IT Professional with successful experience as a Software Tester and Web Devel
 # List of Contents
 -	[About](#about)
 -	[CV](#curriculum-vitae)
--	[Skills](#skils)
+-	[Skills](#skills)
 -	[Tools](#tools)
 -	[Course](#course)
 -	[MQA Projects Growia](#mqa-projects-growia)
-    * [Project 1 SauceDemo CSD](#project-1-saucedemo-csd)
-    * [Project 2 Blazedemo PAB](#project-2-blazedome-pab)
-    * [SQL Queries](#sql-queries)
--	[Automation Porjects](#automation-projects)
-    * [Techpanda demo shopping web application](#techpanda-demo-shopping-web-application)
--	[Web Site Project](#website-project)
-## About Me
+-	[Automation Testing Techpanda](#automation-testing-techpanda)
+-	[WEB Application Project](#web-application-project)
+## About
 I am a Software Tester and Web Developer (Back-End | Front-End)  there are cases where special skills that I had using HTML5 CSS3 JavaScript and so many framework tools that I use.
 Throughout my career, I have a track record of finishing my project Document Testing, Test Plan, Test Report, and Bug Report around Manual Testing. Also, I have experience with Automation Testing skills with the tools WebdriverIO, Selenium Java, TestNG, JUnit, and Jenkins.
 In addition to my pursuits, I am deeply committed to broadening my Web Developer skills. Currently undertaking for relevant to my career to be a freelancer, I Am dedicated to gaining a deeper understanding of Programming Back-End environments using JavaScript, NodeJS, MongoDB, ExpressJS, and etc
@@ -51,7 +47,7 @@ __Code Editor__
 
 ## Course
 __Manual Quality Assurance, Level Entry to Mid__
-*Olnine course By Growia, [MQA]( https://www.growia.education/id)*
+*Olnine course MQA - Engineer By [Growia]( https://www.growia.education/id)*
 
 __Web Programming with dicoding & Google Developers__
 *Online course  thoroughly discusses the basics of HTML and CSS as the three foundations of website creation, Web Developer /Back-End developer using NodeJS technology, and Front-End Web Developer. This foundation is needed for those of you who want to
@@ -63,8 +59,8 @@ Front-End By Narendra Wicaksono [My Certificate]( https://www.dicoding.com/certi
 
 
 ## MQA Projects Growia
-__Project Test Case for all features and test type__
-Saucedemo and Demoblaze is an e-commerce website that is currently in very early development stages. The MVP for this website was creating a login feature and a homepage showcasing a list of items. 
+__Project SauceDemo CSD & Blazedemo PAB__
+Project Test Case for all features and test type, Saucedemo and Demoblaze is an e-commerce website that is currently in very early development stages. The MVP for this website was creating a login feature and a homepage showcasing a list of items. 
 Please visit this link to see [Document Requerement](https://growiaeducationid.atlassian.net/jira/software/projects/CSD/boards/3/timeline) from Jira make sure you enter the username and password
 -	Username growiastudents@gmail.com
 -	Password Students001
@@ -73,10 +69,10 @@ Please visit this link to see [Document Requerement](https://growiaeducationid.a
 __SQL Test__
 Open [link]( https://www.programiz.com/sql/online-compiler/) and see the [folder result](https://github.com/tkarombang/MyPortfolio/tree/main/SQL%20TEST) of my work.
 
-__Automation Testing Techpanda from guru99__
+__Automation Testing Techpanda__
 This project will place you in an Online Enterprise Test Environment. You will automate Selenium WebDriver test cases for eCommerce demo websites. You will first create your own script, and later compare it with the script created by Selenium experts in real-time.
--	Please visit this link to see my [automation testing](belum ada link) project using 
-
+-	Please visit this link to see my [automation testing](https://github.com/tkarombang/webDriverIO-challange) project
+  
 ## WEB Application Project
 __Website project from Dicoding__
 (lokalokalmedia)[ https://github.com/tkarombang/lokalokalmedia] click [this]( https://tkarombang.github.io/lokalokalmedia/) to visit the website.
