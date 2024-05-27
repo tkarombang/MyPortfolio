@@ -14,7 +14,7 @@ Throughout my career, I have a track record of finishing my project Document Tes
 In addition to my pursuits, I am deeply committed to broadening my Web Developer skills. Currently undertaking for relevant to my career to be a freelancer, I Am dedicated to gaining a deeper understanding of Programming Back-End environments using JavaScript, NodeJS, MongoDB, ExpressJS, and etc
 
 ## Curriculum Vitae
-You can visit this link [A PDF out of my google drive)(https://drive.google.com/drive/u/1/home)
+You can visit this link [A PDF out of my google drive](https://drive.google.com/drive/u/1/home)
 
 ## Skills
 __Manual Testing__
