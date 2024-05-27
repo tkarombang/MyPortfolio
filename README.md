@@ -28,7 +28,7 @@ __Manual Testing__
 __Automation Testing__
 -	Familiar with the tools Selenium Java, WebdriverIO, TestNG, JUnit, Allure Reports, Jenkins , and Mocha
 -	Perform with the projects website demo saucedemo, demoblaze, and techpanda
-__Programming Language and Tools
+__Programming Language and Tools__
 -	JavaSript (ES6), HTML, CSS, Tailwind, NodeJS
 ## Tools
 __Test Rail__
