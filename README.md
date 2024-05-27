@@ -78,7 +78,7 @@ This project will place you in an Online Enterprise Test Environment. You will a
 -	Please visit this link to see my [automation testing](belum ada link) project using 
 
 ## WEB Application Project
-__Website project from Dicoding __
+__Website project from Dicoding__
 (lokalokalmedia)[ https://github.com/tkarombang/lokalokalmedia] click [this]( https://tkarombang.github.io/lokalokalmedia/) to visit the website.
 
 __Coffee Shoop website__
