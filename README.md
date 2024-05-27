@@ -32,6 +32,7 @@ __Manual Testing__
 
 __Programming Language and Tools__
 -	JavaSript (ES6), HTML, CSS, Tailwind, NodeJS
+  
 ## Tools
 __Test Rail__
 -	Know to how to analyze the document and create test case
@@ -42,7 +43,7 @@ __Jira__
 -	Know to how to create bug reports
 -	Able to create project and track their progress.
 
-__AI Tools
+__AI Tools__
 -	Know to how to use ChatGPT, Gemini, BlackboxAi, Github Copilot, Tabnine extension Vscode.
   
 __Code Editor__
@@ -67,16 +68,19 @@ Saucedemo and Demoblaze is an e-commerce website that is currently in very early
 Please visit this link to see [Document Requerement](https://growiaeducationid.atlassian.net/jira/software/projects/CSD/boards/3/timeline) from Jira make sure you enter the username and password
 -	Username growiastudents@gmail.com
 -	Password Students001
--	Please visit this folder to see my *result* document [project-1](https://github.com/tkarombang/MyPortfolio/tree/main/Project%201) and [project-2](https://github.com/tkarombang/MyPortfolio/tree/main/Project%202)
+-	Please visit this folder to see my *result* document [project-1](https://github.com/tkarombang/MyPortfolio/tree/main/Project%201) and [project-2](https://github.com/tkarombang/MyPortfolio/tree/main/Project%202).
+  
 __SQL Test__
-Open [link]( https://www.programiz.com/sql/online-compiler/) and see the [folder result](https://github.com/tkarombang/MyPortfolio/tree/main/SQL%20TEST) of my work
+Open [link]( https://www.programiz.com/sql/online-compiler/) and see the [folder result](https://github.com/tkarombang/MyPortfolio/tree/main/SQL%20TEST) of my work.
+
 __Automation Testing Techpanda from guru99__
 This project will place you in an Online Enterprise Test Environment. You will automate Selenium WebDriver test cases for eCommerce demo websites. You will first create your own script, and later compare it with the script created by Selenium experts in real-time.
 -	Please visit this link to see my [automation testing](belum ada link) project using 
 
 ## WEB Application Project
 __Website project from Dicoding __
-(lokalokalmedia)[ https://github.com/tkarombang/lokalokalmedia] click [this]( https://tkarombang.github.io/lokalokalmedia/) to visit the website
+(lokalokalmedia)[ https://github.com/tkarombang/lokalokalmedia] click [this]( https://tkarombang.github.io/lokalokalmedia/) to visit the website.
+
 __Coffee Shoop website__
 (kopinnakamaq)[ https://github.com/tkarombang/kopinna-kamaq] click [this]( https://tkarombang.github.io/kopinna-kamaq) to visit the website
 
