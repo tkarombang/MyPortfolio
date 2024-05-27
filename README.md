@@ -36,12 +36,15 @@ __Programming Language and Tools__
 __Test Rail__
 -	Know to how to analyze the document and create test case
 -	Able to run test case
--	Know how to create document defect reporting
+-	Know how to create document defect reporting.
+
 __Jira__
 -	Know to how to create bug reports
--	Able to create project and track their progress
+-	Able to create project and track their progress.
+
 __AI Tools
--	Know to how to use ChatGPT, Gemini, BlackboxAi, Github Copilot, Tabnine extension Vscode
+-	Know to how to use ChatGPT, Gemini, BlackboxAi, Github Copilot, Tabnine extension Vscode.
+  
 __Code Editor__
 -	Visual Studio Code and the extensions
 
