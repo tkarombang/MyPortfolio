@@ -64,7 +64,7 @@ Please visit this link to see [Document Requerement](https://growiaeducationid.a
 -	Password Students001
 -	Please visit this folder to see my *result* document [project-1](https://github.com/tkarombang/MyPortfolio/tree/main/Project%201) and [project-2](https://github.com/tkarombang/MyPortfolio/tree/main/Project%202)
 __SQL Test__
-Open [this]( https://www.programiz.com/sql/online-compiler/) link and see the [folder result](https://github.com/tkarombang/MyPortfolio/tree/main/SQL%20TEST) of my work
+Open [link]( https://www.programiz.com/sql/online-compiler/) and see the [folder result](https://github.com/tkarombang/MyPortfolio/tree/main/SQL%20TEST) of my work
 __Automation Testing Techpanda from guru99__
 This project will place you in an Online Enterprise Test Environment. You will automate Selenium WebDriver test cases for eCommerce demo websites. You will first create your own script, and later compare it with the script created by Selenium experts in real-time.
 -	Please visit this link to see my [automation testing](belum ada link) project using 
