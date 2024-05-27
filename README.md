@@ -46,10 +46,12 @@ __Code Editor__
 
 ## Course
 __Manual Quality Assurance, Level Entry to Mid__
-*Olnine course MQA - Engineer By [Growia]( https://www.growia.education/id)*
+
+Olnine course MQA - Engineer By [Growia]( https://www.growia.education/id)*
 
 __Web Programming with dicoding & Google Developers__
-*Online course  thoroughly discusses the basics of HTML and CSS as the three foundations of website creation, Web Developer /Back-End developer using NodeJS technology, and Front-End Web Developer. Compiled and verified by the Dicoding expert team and Google Developers [myProfile]( https://www.dicoding.com/users/tuang_karombang/academies)
+
+Online course  thoroughly discusses the basics of HTML and CSS as the three foundations of website creation, Web Developer /Back-End developer using NodeJS technology, and Front-End Web Developer. Compiled and verified by the Dicoding expert team and Google Developers [myProfile]( https://www.dicoding.com/users/tuang_karombang/academies)
 
 - Web Programming By Narendra Wicaksono [My Certificate](https://www.dicoding.com/certificates/MEPJVYQ8QP3V)
 - Back-End Developer By Narendra Wicaksono [My Certificate](https://www.dicoding.com/certificates/ERZR022DNXYV)
