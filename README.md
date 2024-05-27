@@ -71,7 +71,7 @@ Open [link]( https://www.programiz.com/sql/online-compiler/) and see the [folder
 
 __Automation Testing Techpanda__
 
-This project will place you in an Online Enterprise Test Environment. You will automate Selenium WebDriver test cases for eCommerce demo websites. You will first create your own script, and later compare it with the script created by Selenium experts in real-time.
+This project will place you in an Online Enterprise Test Environment. You will automate Selenium WebDriver test cases for E-Commerce demo websites. You will first create your own script, and later compare it with the script created by Selenium experts in real-time.
 -	Please visit this link to see my [automation testing](https://github.com/tkarombang/webDriverIO-challange) project
   
 ## WEB Application Project
