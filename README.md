@@ -47,7 +47,9 @@ __Code Editor__
 ## Course
 __Manual Quality Assurance, Level Entry to Mid__
 
-Olnine course MQA - Engineer By [Growia]( https://www.growia.education/id)*
+Olnine course MQA - Engineer By [Growia]( https://www.growia.education/id)
+A specialist Manual Software Tester is tasked with ensuring the proper functioning of computer programs (software) to provide the best experience for users. By testing software manually, a Software Tester must create Test Case documents, collaborate with developers and improve the software development process.
+
 
 __Web Programming with dicoding & Google Developers__
 
