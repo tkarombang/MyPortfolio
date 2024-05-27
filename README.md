@@ -6,8 +6,7 @@ An IT Professional with successful experience as a Software Tester and Web Devel
 -	[Skills](#skills)
 -	[Tools](#tools)
 -	[Course](#course)
--	[MQA Projects Growia](#mqa-projects-growia)
--	[Automation Testing Techpanda](#automation-testing-techpanda)
+-	[MQA Projects Growia | Automation Project](#mqa-projects-growia)
 -	[WEB Application Project](#web-application-project)
 ## About
 I am a Software Tester and Web Developer (Back-End | Front-End)  there are cases where special skills that I had using HTML5 CSS3 JavaScript and so many framework tools that I use.
@@ -60,6 +59,7 @@ Front-End By Narendra Wicaksono [My Certificate]( https://www.dicoding.com/certi
 
 ## MQA Projects Growia
 __Project SauceDemo CSD & Blazedemo PAB__
+
 Project Test Case for all features and test type, Saucedemo and Demoblaze is an e-commerce website that is currently in very early development stages. The MVP for this website was creating a login feature and a homepage showcasing a list of items. 
 Please visit this link to see [Document Requerement](https://growiaeducationid.atlassian.net/jira/software/projects/CSD/boards/3/timeline) from Jira make sure you enter the username and password
 -	Username growiastudents@gmail.com
@@ -70,6 +70,7 @@ __SQL Test__
 Open [link]( https://www.programiz.com/sql/online-compiler/) and see the [folder result](https://github.com/tkarombang/MyPortfolio/tree/main/SQL%20TEST) of my work.
 
 __Automation Testing Techpanda__
+
 This project will place you in an Online Enterprise Test Environment. You will automate Selenium WebDriver test cases for eCommerce demo websites. You will first create your own script, and later compare it with the script created by Selenium experts in real-time.
 -	Please visit this link to see my [automation testing](https://github.com/tkarombang/webDriverIO-challange) project
   
