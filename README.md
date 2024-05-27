@@ -49,12 +49,11 @@ __Manual Quality Assurance, Level Entry to Mid__
 *Olnine course MQA - Engineer By [Growia]( https://www.growia.education/id)*
 
 __Web Programming with dicoding & Google Developers__
-*Online course  thoroughly discusses the basics of HTML and CSS as the three foundations of website creation, Web Developer /Back-End developer using NodeJS technology, and Front-End Web Developer. This foundation is needed for those of you who want to
-develop website development capabilities to a further stage. Compiled and verified by the Dicoding expert team, the material presented
-structured and comprehensive by dicoding and Google Developers [myProfile]( https://www.dicoding.com/users/tuang_karombang/academies)*
-Web Programming By Narendra Wicaksono [My Certificate]( https://www.dicoding.com/certificates/MEPJVYQ8QP3V)
-Back-End Developer By Narendra Wicaksono [My Certificate]( https://www.dicoding.com/certificates/ERZR022DNXYV)
-Front-End By Narendra Wicaksono [My Certificate]( https://www.dicoding.com/certificates/81P2VVY9JPOY)
+*Online course  thoroughly discusses the basics of HTML and CSS as the three foundations of website creation, Web Developer /Back-End developer using NodeJS technology, and Front-End Web Developer. Compiled and verified by the Dicoding expert team and Google Developers [myProfile]( https://www.dicoding.com/users/tuang_karombang/academies)
+
+- Web Programming By Narendra Wicaksono [My Certificate](https://www.dicoding.com/certificates/MEPJVYQ8QP3V)
+- Back-End Developer By Narendra Wicaksono [My Certificate](https://www.dicoding.com/certificates/ERZR022DNXYV)
+- Front-End By Narendra Wicaksono [My Certificate](https://www.dicoding.com/certificates/81P2VVY9JPOY)
 
 
 ## MQA Projects Growia
