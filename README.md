@@ -24,10 +24,12 @@ You can visit this link [A PDF out of my google drive] (https://drive.google.com
 ## Skills
 __Manual Testing__
 -	Can perform Manual Functional, Componen, Performance, Regression, Integration testing of web applications, and Bug tracking Tools Jira
--	Applying Document Test Cases, Test Execution Log, Test Data, Defect Reporting
-__Automation Testing__
+-	Applying Document Test Cases, Test Execution Log, Test Data, Defect Reporting.
+
+  __Automation Testing__
 -	Familiar with the tools Selenium Java, WebdriverIO, TestNG, JUnit, Allure Reports, Jenkins , and Mocha
--	Perform with the projects website demo saucedemo, demoblaze, and techpanda
+-	Perform with the projects website demo saucedemo, demoblaze, and techpanda.
+
 __Programming Language and Tools__
 -	JavaSript (ES6), HTML, CSS, Tailwind, NodeJS
 ## Tools
