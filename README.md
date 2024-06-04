@@ -29,7 +29,7 @@ __Programming Language and Tools__
 -	JavaSript (ES6), HTML, CSS, Tailwind, NodeJS
   
 ## Tools
-__Test Rail__
+__Test Rail/Microsoft Excel__
 -	Know to how to analyze the document and create test case
 -	Able to run test case
 -	Know how to create document defect reporting.
