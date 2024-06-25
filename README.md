@@ -60,7 +60,7 @@ The following are the task assigment during the certification:
 8. Advanced Testing Skils and Practical Project
 9. Final Project and Creation of Portfolio
    
-[Link to The Certificate - Front](https://drive.google.com/file/d/1ng2f3IThshOHgYsESubJh-Z42isZbeMZ/view?usp=sharing)
+[Link to The Certificate - Front](https://drive.google.com/file/d/1ng2f3IThshOHgYsESubJh-Z42isZbeMZ/view?usp=sharing) | 
 [Link to The Certificate - Back](https://drive.google.com/file/d/1fWLF98ljkfD7E4FGne42VI2owjpDh7CB/view?usp=sharing)
 
 
