@@ -49,6 +49,18 @@ __Manual Quality Assurance, Level Entry to Mid__
 
 Olnine course MQA - Engineer By [Growia]( https://www.growia.education/id)
 A specialist Manual Software Tester is tasked with ensuring the proper functioning of computer programs (software) to provide the best experience for users. By testing software manually, a Software Tester must create Test Case documents, collaborate with developers and improve the software development process.
+The following are the task assigment during the certification:
+1. Introduction to Software Testing
+2. Testing Fundamentals
+3. Test Planning and Documentation
+4. Test Execution and Defect Management
+5. Basics of Web Application Testing
+6. Fundamentals of Mobile Application Testing
+7. Ethics and Integrity in Software Testing
+8. Advanced Testing Skils and Practical Project
+9. Final Project and Creation of Portfolio
+    [Link to The Certificate - Front](https://drive.google.com/file/d/1ng2f3IThshOHgYsESubJh-Z42isZbeMZ/view?usp=sharing)
+    [Link to The Certificate - Back](https://drive.google.com/file/d/1fWLF98ljkfD7E4FGne42VI2owjpDh7CB/view?usp=sharing)
 
 
 __Web Programming with dicoding & Google Developers__
