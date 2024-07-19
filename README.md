@@ -85,11 +85,12 @@ Please visit this link to see [Document Requerement](https://growiaeducationid.a
 __SQL Test__
 Open [link]( https://www.programiz.com/sql/online-compiler/) and see the [folder result](https://github.com/tkarombang/MyPortfolio/tree/main/SQL%20TEST) of my work.
 
-__Automation Testing Techpanda__
+__Automation Testing Projects__
 
 This project will place you in an Online Enterprise Test Environment. You will automate test cases for E-Commerce demo websites. You will first create your own script whatever tools you're using it, in this case I using WebdriverIO and Playwright, and later compare it with the script created by Selenium experts in real-time.
 -	This link to see my [automation testing: WebdriverIO](https://github.com/tkarombang/webDriverIO-challange) project, this project Day-1 to Day-7
 -	This link to see my [automation testing: Playwright](https://github.com/tkarombang/guru99-playwright) project, this project Day-8 to Day-11
+-	This link to see my [Saucedemo SCD](https://github.com/tkarombang/saucedemo-webdriverio) project, this project Day-12 to Day-18
   
 ## WEB Application Project
 __Website project from Dicoding__
