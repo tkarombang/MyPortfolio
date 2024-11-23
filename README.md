@@ -87,10 +87,11 @@ Open [link]( https://www.programiz.com/sql/online-compiler/) and see the [folder
 
 ## Automation Testing Projects
 
-This project will place you in an Online Enterprise Test Environment. You will automate test cases for E-Commerce demo websites. You will first create your own script whatever tools you're using it, in this case I using WebdriverIO and Playwright, and later compare it with the script created by Selenium experts in real-time.
+This project will place you in an Online Enterprise Test Environment. You will automate test cases for E-Commerce demo websites and bank online demo. You will first create your own script whatever tools you're using it, in this case I using WebdriverIO, Playwright and Cypress, and later compare it with the script created by Selenium experts in real-time.
 -	This link to see my [automation testing: WebdriverIO](https://github.com/tkarombang/webDriverIO-challange) project, this project Day-1 to Day-7
 -	This link to see my [automation testing: Playwright](https://github.com/tkarombang/guru99-playwright) project, this project Day-8 to Day-11
 -	This link to see my [Saucedemo SCD](https://github.com/tkarombang/saucedemo-webdriverio) project, this project Day-12 to Day-18
+-	This link to see my [xyz_Bank testing: Cypress](https://github.com/tkarombang/testing-xyz-Bank) project, this project NOvember Day-20 to Day-23
   
 ## WEB Application Project
 __Website project from Dicoding__
