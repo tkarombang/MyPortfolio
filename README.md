@@ -10,8 +10,8 @@ An IT Professional with successful experience as a Software Tester and Web Devel
 -	[WEB Application Project](#web-application-project)
 ## About
 I am a Software Tester and Web Developer (Back-End | Front-End)  there are cases where special skills that I had using HTML5 CSS3 JavaScript and so many framework tools that I use.
-Throughout my career, I have a track record of finishing my project Document Testing, Test Plan, Test Report, and Bug Report around Manual Testing. Also, I have experience with Automation Testing skills with the tools WebdriverIO, Selenium Java, TestNG, JUnit, and Jenkins.
-In addition to my pursuits, I am deeply committed to broadening my Web Developer skills. Currently undertaking for relevant to my career to be a freelancer, I Am dedicated to gaining a deeper understanding of Programming Back-End environments using JavaScript, NodeJS, MongoDB, ExpressJS, and etc
+Throughout my career, I have a track record of finishing my project Functional & Non-Functional Testing, Document Testing, Test Plan, Test Report, and Bug Report around Manual Testing. Also, I have experience with Automation Testing skills with the tools WebdriverIO, Selenium Java, Playwright, Katalon, Jmeter and Jenkins.
+In addition to my pursuits, I am deeply committed to broadening my Web Developer skills. Currently undertaking for relevant to my career to be a freelancer, I Am dedicated to gaining a deeper understanding of Programming Back-End environments using JavaScript, NodeJS, MongoDB, ExpressJS, and Software Testing Skills
 
 ## Curriculum Vitae
 You can visit this link [A PDF out of my google drive](https://drive.google.com/file/d/1svsACXnE95Brr-NfST9p5EFwKCkbTuIx/view?usp=sharing)
